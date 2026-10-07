@@ -17,7 +17,7 @@
 - 📫 **How to reach me:** franciscorodr26@outlook.com
 
 <p align="left">
-  <a href="https://linkedin.com/in/teu-perfil" target="_blank">
+  <a href="[https://linkedin.com/in/teu-perfil](https://www.linkedin.com/in/francisco-rodrigues-928489177/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
