@@ -54,7 +54,10 @@
 
 ### ⚡ Some Projects
 
-* **WalletWard** — Web3 security application designed for detecting high-risk smart contract approvals and managing allowance permissions. Built with *Next.js, TypeScript, wagmi, viem*.
-* **NateFlux** — DevSecOps orchestrator for managing GitLab CI/CD pipelines and HCP Terraform deployments with automated validation routines.
-* **Local Restaurant Platforms** — Digital booking and menu platforms for local businesses (*O Pito da Guia, Serra Grill*). Built with *Next.js, Prisma, and Pinata IPFS*.
-* **NEXUS3D** — Web application for discovering and managing local and European event participation with interactive map integrations.
+- **WalletWard** — Web3 security application designed for detecting high-risk smart contract approvals and managing allowance permissions. Built with *Next.js, TypeScript, wagmi, viem*.
+- **NateFlux** — DevSecOps orchestrator for managing GitLab CI/CD pipelines and HCP Terraform deployments with automated validation routines.
+- **[WIP] Solgoods** — Decentralized peer-to-peer Web3 marketplace featuring multi-token payments (SOL, ETH, USDC), escrow mechanisms, and shipping micro-insurance. Built with *Solana, Anchor (PDAs), TypeScript, and Next.js*.
+- **[WIP] Núcleos** — Comprehensive ERP platform for university student associations, featuring an AI-powered RAG engine for academic document Q&A, event ticketing, Stripe payments, and DRM protections. Built with *Next.js, TypeScript, PostgreSQL, Prisma, and RAG/LLMs*.
+- **Local Restaurant Platforms** — Digital booking and menu platforms for local businesses (*O Pito da Guia, Serra Grill*). Built with *Next.js, Prisma, and Pinata IPFS*.
+- **NEXUS3D** — Web application for discovering and managing local and European event participation with interactive map integrations.
+
