@@ -12,8 +12,10 @@
 ### 🚀 About Me
 
 - 💻 **Core Stack:** TypeScript, Next.js, React, Tailwind CSS, Node.js, PostgreSQL.
+- 🧠 **AI & Local Infra:** RAG Systems, pgvector, Ollama, Rust, Tauri, Local/On-Premise LLMs.
 - 🔗 **Web3 Stack:** Solana, Solidity, wagmi, viem.
-- 🧠 **Background:** Transitioned from a degree in Chemistry to a self-taught Software Developer.
+- 🔬 **Background:** Transitioned from a degree in Chemistry to a self-taught Software Developer.
+- 📚 **Currently Exploring:** Advanced hybrid RAG architectures (spanning cloud-based scaling and privacy-first local/offline deployments).
 - 📫 **How to reach me:** franciscorodr26@outlook.com
 
 <p align="left">
@@ -32,14 +34,17 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Ollama-FF6F00?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=black" alt="Tauri" />
   <img src="https://img.shields.io/badge/Stripe-626EE3?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/wagmi-2D3748?style=flat-square&logo=web3&logoColor=white" alt="wagmi" />
+  <img src="https://img.shields.io/badge/wagmi-2D3748?style=flat-square&logo=wagmi&logoColor=white" alt="wagmi" />
   <img src="https://img.shields.io/badge/viem-1E1E1E?style=flat-square&logo=ethereum&logoColor=white" alt="viem" />
   <img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black" alt="Solana" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -54,10 +59,9 @@
 
 ### ⚡ Some Projects
 
+- **Núcleos** — Comprehensive ERP platform for university student associations, featuring an **advanced RAG engine** for internal document Q&A, strict RGPD/privacy compliance, event ticketing, Stripe payments, and DRM protections. Built with *Next.js, TypeScript, PostgreSQL, Prisma, and Ollama/pgvector*.
 - **WalletWard** — Web3 security application designed for detecting high-risk smart contract approvals and managing allowance permissions. Built with *Next.js, TypeScript, wagmi, viem*.
 - **NateFlux** — DevSecOps orchestrator for managing GitLab CI/CD pipelines and HCP Terraform deployments with automated validation routines.
 - **[WIP] Solgoods** — Decentralized peer-to-peer Web3 marketplace featuring multi-token payments (SOL, ETH, USDC), escrow mechanisms, and shipping micro-insurance. Built with *Solana, Anchor (PDAs), TypeScript, and Next.js*.
-- **[WIP] Núcleos** — Comprehensive ERP platform for university student associations, featuring an AI-powered RAG engine for academic document Q&A, event ticketing, Stripe payments, and DRM protections. Built with *Next.js, TypeScript, PostgreSQL, Prisma, and RAG/LLMs*.
 - **Local Restaurant Platforms** — Digital booking and menu platforms for local businesses (*O Pito da Guia, Serra Grill*). Built with *Next.js, Prisma, and Pinata IPFS*.
 - **NEXUS3D** — Web application for discovering and managing local and European event participation with interactive map integrations.
-
