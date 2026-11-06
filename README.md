@@ -11,8 +11,10 @@
 
 ### 🚀 About Me
 
-- BACKSTORY: ​Coming from a background in Industrial Chemistry, I apply a strict, first-principles approach to software architecture. I specialize in taking projects from zero to deployment, designing privacy-first AI architectures, resilient backends, and responsive user interfaces.
+- ​Coming from a background in Industrial Chemistry, I apply a strict, first-principles approach to software architecture. I specialize in taking projects from zero to deployment, designing privacy-first AI architectures, resilient backends, and responsive user interfaces.
 ​Whether I am building offline-first enterprise AI orchestrators or decentralized Web3 apps, my focus remains on maintainable systems, secure data isolation, and audit-ready workflows.
+
+### 
 
 - 💻 **Core Stack:** TypeScript, Next.js, React, Tailwind CSS, Node.js, PostgreSQL.
 - 🧠 **AI & Local Infra:** RAG Systems, pgvector, Ollama, Rust, Tauri, Local/On-Premise LLMs.
